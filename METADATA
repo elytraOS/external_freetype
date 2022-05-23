@@ -9,11 +9,11 @@ third_party {
     type: GIT
     value: "git://git.sv.nongnu.org/freetype/freetype2.git"
   }
-  version: "VER-2-10-4"
+  version: "VER-2-12-1"
   license_type: RESTRICTED
   last_upgrade_date {
-    year: 2020
-    month: 10
-    day: 22
+    year: 2022
+    month: 05
+    day: 23
   }
 }
